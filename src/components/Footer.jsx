@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="footer-links">
           <Link href="/">home</Link>
           <Link href="/projects">projects</Link>
-          <Link href="/blog">blog</Link>
+          <Link href="/blog">blog1</Link>
         </div>
       </div>
     </footer>
