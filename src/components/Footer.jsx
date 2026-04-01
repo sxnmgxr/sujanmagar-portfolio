@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-inner">
         <span>© {new Date().getFullYear()} Sujan Magar</span>
         <div className="footer-links">
-          <Link href="/">home</Link>
+          <Link href="/">resume</Link>
           <Link href="/projects">projects</Link>
           <Link href="/blog">blog</Link>
         </div>
